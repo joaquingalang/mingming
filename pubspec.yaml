@@ -29,7 +29,7 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   flame: ^1.0.0
-  shared_preferences: ^2.0.0
+  shared_preferences: ^2.5.4
   flutter:
     sdk: flutter
 
